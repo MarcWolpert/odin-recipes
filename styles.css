@@ -1,0 +1,17 @@
+/* styles.css */
+
+h1{
+    background-color:rgb(0,0,255,.3);
+    font-size: 34px;
+    text-align: center;
+}
+li{
+    margin-right:auto;
+    margin-left:15%;
+    padding:1rem;
+    border:8px;
+}
+ul{
+    background-color:rgb(25, 0, 0,0.3);
+}
+
